@@ -3,7 +3,7 @@
     
 then using this template to generate your application if you use framgia prototype
 
-    https://github.com/nvmanh/framgia-android-prototype
+    https://github.com/nvmanh/framgia-android-prototype-template
     
 In this project we use the following architectures:
 
